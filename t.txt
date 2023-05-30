@@ -1,2 +1,3 @@
 fisrst line in main
 
+second line in branch b1
