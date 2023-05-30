@@ -1,3 +1,6 @@
 fisrst line in main
 
 second line in branch b1
+
+second line in branch b2
+
